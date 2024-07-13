@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section {
+  @apply bg-white;
+}
+
+.section-home {
+  @apply py-20 sm:py-28 lg:py-32;
+}
+
+.title-section-home {
+  @apply text-2xl sm:text-3xl lg:text-4xl font-extrabold;
+}
+
+.subtitle-section-home {
+  @apply text-xs sm:text-base lg:text-lg text-gray-500;
+}
+
+.section-page {
+  @apply py-4 sm:py-6 lg:py-14;
+}
+
+.dot-custom {
+  @apply w-3 h-3 bg-orange-400 rounded-full;
+}
+
+.button-dark {
+  @apply bg-black text-white;
+}
+
+/* .custom-quill {
+  h1 {
+    @apply text-4xl font-bold;
+  }
+  h2 {
+    @apply text-3xl font-semibold;
+  }
+
+  h3 {
+    @apply text-2xl font-medium;
+  }
+
+  h4 {
+    @apply text-xl font-medium;
+  }
+
+  p {
+    @apply text-base;
+  }
+
+  strong {
+    @apply font-bold;
+  }
+} */

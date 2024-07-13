@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": {
+      "es": "III Congreso Internacional sobre la Amazonía Peruana",
+      "en": "III International Congress on the Peruvian Amazon"
+    },
+    "siglas": "CONIAP",
+    "modalidad": "Virtual",
+    "dates": {
+      "inscription": {
+        "start": "2019-01-01",
+        "end": "2019-01-31"
+      },
+      "summary": {
+        "start": "2019-02-01",
+        "end": "2024-08-31"
+      },
+      "date-conference": {
+        "start": "2024-11-13",
+        "end": "2024-11-15"
+      }
+    }
+  }
+}
